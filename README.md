@@ -1,2 +1,2 @@
-# test
-This is just a test repo
+# Test
+This is just a test repo for hubgit
